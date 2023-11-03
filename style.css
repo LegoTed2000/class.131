@@ -2,19 +2,12 @@ body{
     background-size: cover;
     background-position: center;
 }
-.heading
-{
-font-size: 23px;
-width: 100%;
-margin: 0px;
+button{
+width: 300px;
+height: 70px;
+border-radius: 20px;
 }
-
-#status
-{
-font-size: 18px;
+h1 {
+    color: red;
+    font-weight: bolder;
 }
-canvas {
-    border:5px solid rgb(0, 0, 157) ;
-    border-radius: 20px;
-}
-
